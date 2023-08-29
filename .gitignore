@@ -13,6 +13,7 @@
 *.pyc
 *.pyo
 *.apk
+*.aab
 .packages
 python_for_android.egg-info
 /build/
